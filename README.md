@@ -11,7 +11,7 @@ Backend Developer & Health Tech Enthusiast from Brazil</h1>
 <h2>Projects</h2>
 
 <li>www.smarterlar.net | SmarterLar - ILPI management system with dashboard, patient management, agenda, communication tools, and multi-professional modules</li>
-<li>[www.smarterlar.net](https://consig.smarterlar.net) | SmarterLar - ILPI management system with dashboard, patient management, agenda, communication tools, and multi-professional modules</li>
+<li>www.consig.smarterlar.net | SmarterConsig - The smart system for fashion stores with consignment, POS and comprehensive reporting.</li>
 <li>Bot-Suporte-Telegram - Telegram bot for direct user support with admin panel integration</li>
 <li>Framework-2025 - My PHP framework for rapid backend development</li>
 
