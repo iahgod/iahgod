@@ -14,9 +14,9 @@ Mostly backend, occasionally beyond.
 ### `// Selected projects`
 
 - [SmarterLar](https://www.smarterlar.net) — Healthcare management.
-- [Metin2](metin2.iahgod.com.br) — Metin2.
+- [Metin2](metin2.iahgod.com.br) — Metin2 SinglePlayer Online.
 - [Bastião](https://zvrax.com/bestiao/) — Bastião Game.
-- [Metin2 Offline campanhas](https://zvrax.com/) — Metin2 Offline campanhas.
+- [Metin2 Offline](https://zvrax.com/) — I'm recreating the essence of Metin2 at Godot, bringing a new action RPG experience that's completely offline and single-player.
 
 ### `// Stack`
 
